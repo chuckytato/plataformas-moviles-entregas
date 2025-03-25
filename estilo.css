@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #5EC2B7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #18444B;
+    width: 320px;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+}
+
+.profile img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.profile h2 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.button {
+    display: block;
+    background-color: white;
+    color: #18444B;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 8px;
+}
+
+.social-icons {
+    margin-top: 20px;
+}
+
+.social-icons img {
+    width: 30px;
+    margin: 5px;
+}
