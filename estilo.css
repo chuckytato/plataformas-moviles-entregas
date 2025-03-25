@@ -17,13 +17,6 @@ body {
     color: white;
 }
 
-.profile img {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    object-fit: cover;
-}
-
 .profile h2 {
     font-size: 18px;
     margin-top: 10px;
@@ -45,11 +38,3 @@ body {
     border-radius: 8px;
 }
 
-.social-icons {
-    margin-top: 20px;
-}
-
-.social-icons img {
-    width: 30px;
-    margin: 5px;
-}
