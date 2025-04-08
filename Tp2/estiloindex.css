@@ -5,3 +5,25 @@ body{
 h1{
   text-align:center;
 }
+p{
+font-family:sans-serif;
+}
+h1,h2,h3{
+color:#eee;
+}
+strong{
+border-buttom:white;
+}
+.the-force{
+color:#444;
+font-weight: ;
+}
+.light-slide{
+  color:#66f;
+}
+.dark-slide{
+color:#f33;
+}
+#og-trilogy{
+list-style-type:circle;
+}
