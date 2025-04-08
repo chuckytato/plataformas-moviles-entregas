@@ -1,0 +1,89 @@
+<head>
+  <title>Wikipedia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 30px;
+      background-color: #f8f9fa;
+      color: #202122;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #2a4b8d;
+      margin-top: 40px;
+    }
+
+    a {
+      color: #0645ad;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background-color: white;
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+
+    table, th, td {
+      border: 1px solid #a2a9b1;
+    }
+
+    th {
+      background-color: #f2f2f2;
+      font-weight: bold;
+      text-align: left;
+      padding: 8px;
+    }
+
+    td {
+      padding: 8px;
+      vertical-align: top;
+    }
+
+    hr {
+      border: none;
+      height: 1px;
+      background-color: #a2a9b1;
+      margin: 20px 0;
+    }
+
+    button {
+      padding: 5px 10px;
+      font-size: 14px;
+      background-color: #f8f9fa;
+      border: 1px solid #a2a9b1;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #e2e6ea;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    input[type="radio"] {
+      margin-right: 5px;
+    }
+
+    /* Centrado de "Total en clubes" */
+    td[colspan="3"] {
+      text-align: center;
+      font-weight: bold;
+    }
+
+    strong {
+      font-weight: bold;
+    }
+  </style>
+</head>
