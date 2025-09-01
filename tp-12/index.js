@@ -82,7 +82,7 @@
             texto.style.fontWeight = 'bold';
             texto.style.fontStyle = 'italic';
             texto.style.textDecoration = 'underline';
-            texto.textContent = "¡Has sido trolleado!";
+            texto.textContent = "¡No tenias que tocarlo!";
             window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
         }
          /**
